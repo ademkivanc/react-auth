@@ -1,0 +1,12 @@
+#Get Started
+
+cd server
+npm install
+node app.js
+
+cd client
+npm install
+npm start
+
+username : admin
+password:  password
